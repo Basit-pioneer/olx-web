@@ -1,0 +1,137 @@
+.color{
+    background-color: #002f34;
+}
+.Tcolor{
+    color: #002f34;
+    
+}
+
+.body{
+    font-size: 14px;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 0%;padding: 0%;font-weight: normal;
+}
+
+.fixed{
+    position: fixed;
+}
+.abs{
+    position: absolute;
+}
+.rel{
+    position: relative;
+}
+.stiky{
+    position: sticky;
+}
+.flex{
+    display: flex;
+}
+.ali{
+    align-items: center;
+}
+.Justify{
+    justify-content: space-around;
+}
+.font{
+    font-family: 'open sans', sans-serif;
+    font-weight: normal;
+}
+.font1{
+    font-family: 'open sans',sans-serif;
+    font-weight: "300px";
+}
+.fontb{
+    font-family: 'open sans',sans-serif;
+    font-weight: 700px;
+}
+.s12{font-size: 12px;}
+.s13{font-size: 13px;}
+.s14{font-size: 14px;}
+.s15{font-size: 15px;}
+.s16{font-size: 16px;}
+.s18{font-size: 18px;}
+.s20{font-size: 20px;}
+.s22{font-size: 22px;}
+.s24{font-size: 24px;}
+.s30{font-size: 30px;}
+.fColor{
+    color: rgb(224, 224, 224);
+}
+
+.Block{
+    display:block;
+}
+@media screen and (max-width: 830px) {
+    .header .searchItems{
+        width: 300px;
+    }
+
+  }
+  @media screen and (max-width: 830px) {
+    .header .searchItems{
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    .action{
+        display: none;
+    }
+
+}
+.div1{
+
+}
+.headImage{
+    max-width: -webkit-fill-available;
+    height: 450px;
+}
+.Cart{
+    position: relative;
+    top: 5px;
+}
+.fSpan{
+    margin-top:10px ;
+    width: fit-content;
+}
+.Inline{
+    display: inline-block;
+    margin-left: 65px;
+    margin-right: 40px ;
+
+    /* margin: 0px 25px 0px 25px; */
+    
+    
+}
+.Inline p{
+    display: block;
+    margin: 0px auto;
+}
+.cImage{
+    height: 200px;
+}
+.Categories{
+    /* display: none; */
+
+    
+}
+.cat{
+    background-color: #474343;
+    position: relative;
+    /* top: 5px; */
+    bottom: 328px;
+    color:#ffff;
+    width: 122px;    
+    /* width: 100px;
+    height: 400px;
+    background-color: black;
+    color: #ffffff; */
+
+}
+.catLink{
+    display: block;
+}
+
